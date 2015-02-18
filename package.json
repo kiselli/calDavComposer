@@ -1,0 +1,19 @@
+{
+  "name": "calComposer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "q": "^1.1.2"
+  },
+  "devDependencies": {
+    "nock": "*",
+    "chai": "*",
+    "mocha": "*"
+  }
+}
