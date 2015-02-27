@@ -1,13 +1,13 @@
 {
-  "name": "calComposer",
+  "name": "calDavComposer",
   "version": "1.0.0",
-  "description": "",
+  "description": "Composes Caldav files",
   "main": "index.js",
   "scripts": {
     "test": "mocha tests"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Oliver Buchmann",
+  "license": "MIT",
   "dependencies": {
     "q": "^1.1.2"
   },

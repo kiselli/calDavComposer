@@ -1,7 +1,3 @@
-var urls =
-['http://oliver:01bd15cc27879709df37ec2bf4f860ed@213.136.79.13/owncloud/index.php/apps/calendar/export.php?calid=3',
-'http://oliver:01bd15cc27879709df37ec2bf4f860ed@213.136.79.13/owncloud/index.php/apps/calendar/export.php?calid=4'];
-
 var nock = require('nock');
 // var assert = require('chai').assert;
 var expect = require('chai').expect;

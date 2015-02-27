@@ -1,3 +1,7 @@
+/**
+  @author: Oliver Buchmann
+  @lastEdited: 27.02.2015 
+*/
 var http = require('http');
 var https = require('https');
 var Q = require('q');

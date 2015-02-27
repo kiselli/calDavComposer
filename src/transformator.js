@@ -1,3 +1,8 @@
+/**
+  @author: Oliver Buchmann
+  @lastEdited: 27.02.2015
+*/
+
 var Q = require('q');
 
 function extractEvents(raw){
@@ -30,7 +35,7 @@ function compose(promises, name){
 
       // chunks = array of promise responds
       var composed = chunks.join("\n");
-      var calendar = head + composed + tail;      
+      var calendar = head + composed + tail;
 
       respond(calendar);
     })
