@@ -1,7 +1,7 @@
 # CalComposer
 
 ## Installation
-```npm install --save <git remote url>```
+```npm install --save https://github.com/kiselli/calDavComposer```
 
 ## Usage
 
