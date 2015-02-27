@@ -5,7 +5,7 @@
 
 ## Usage
 
-```nodejs
+```js
 var composer = require('calDavComposer');
 
 var arrayOfUrls = [
@@ -13,6 +13,7 @@ var arrayOfUrls = [
 ];
 
 composer.composeFromUrls(arrayOfUrls);
+
 ```
 
 ## Tests
