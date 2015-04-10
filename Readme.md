@@ -25,7 +25,7 @@ cd calDavComposer```
 modify demo/config.js for your needs
 
 ```npm install   
-```node demo```
+node demo```
 
 
 ## Tests
