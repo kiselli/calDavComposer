@@ -19,12 +19,12 @@ composer.composeFromUrls(arrayOfUrls).then(function(calendar){
 ```
 
 ## Demo
-```git clone https://github.com/kiselli/calDavComposer.git ```
-```cd calDavComposer```
+```git clone https://github.com/kiselli/calDavComposer.git   
+cd calDavComposer```
 
 modify demo/config.js for your needs
 
-```npm install```
+```npm install   
 ```node demo```
 
 
